@@ -1,15 +1,13 @@
-/* Add these styles to your App.css file */
-
 #root {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #1a202c; /* Dark background for contrast */
+    background-color: #1a202c; 
   }
   
   .ad-container {
-    background-color: #2d3748; /* Darker blue */
+    background-color: #2d3748; 
     color: white;
     padding: 2rem;
     border-radius: 0.5rem;
@@ -56,6 +54,6 @@
   }
   
   input {
-    color: white; /* Ensures input text is white */
+    color: white; 
   }
   
